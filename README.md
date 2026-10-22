@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu me chamo Valentino Mattos! 👋
+ 
+## Atualmente estudante e cursante, aprimorando meus conhecimentos na área da tecnologia e manuseamento de computadores
+ 
+## Sobre mim 🏛️:
 
-<!--
-**Valentino035Dev/Valentino035Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Estudo na escola SESI-CEI 123
 
-Here are some ideas to get you started:
+- 🤔 Planejando cursar Medicina na faculdade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😉 E após o termino da faculdade me especializar em Medicina Esportiva
+
+- 🍼 Nascido No dia 21 de Junhode 2010
+
+- ⚡ Cursando tecnologia e informação na escola SENAI-Sorocaba
+
+- 🧐 Jogador de Vôlei de Federação
+  
